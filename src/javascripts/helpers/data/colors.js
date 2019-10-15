@@ -1,5 +1,5 @@
 const colors = [
-  { 
+  {
     id: 'color1',
     name: 'red',
     hexValue: 'FF0000',
